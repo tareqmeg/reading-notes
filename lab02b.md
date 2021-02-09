@@ -10,6 +10,8 @@ This is Tareq Bio Master Degree Holder hope to be the CEO of my self it is not e
 6. [chapter 17+8](https://tareqmeg.github.io/reading-notes/ch178)
 7. [Js summarization](https://tareqmeg.github.io/reading-notes/js)
 8. [read 05](https://tareqmeg.github.io/reading-notes/read05)
+9. [Functions](https://tareqmeg.github.io/reading-notes/06a)
+
 
 
 
