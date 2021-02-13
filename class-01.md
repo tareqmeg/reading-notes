@@ -1,12 +1,26 @@
 > # Prework
+HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.
+
 
 The introduction of the book starts talking about the websites in general and what is websites and how we can build a website and what type of languages we are used to start establishing the website which is basically the HTML and JavaScript and of course CSS, it is also mentioned steps about how you connect the server which is hosting the website and can give you back the website you want. 
  
+
+
+
+
+
+ The html element basically tells your computer that this is an HTML document. All other element tags are 'nested' within the start and end html tags. The web page is then further subdivided into two main sections which are the 'head' and the 'body'.
+
+![element](http://www.web-development-institute.com/sites/default/files/Semantic-in-HTML.png)
+
+
 The second section that we should read is about the structure of web page and the elements of these pages which every element contains opening tags and closing tags the most familiar tags are HTML, body and H1, all what we can say about tags are act like containers that contain the info or the content that we want to add in the website page. 
 
 
-After reviewing the structure of tags we also can read about be we can also read about the attribute of tags that tells us more about this tag holding and info keys about the attribute itself. 
-In chapter eight we are reviewing the evolution of HTML and we are seeing how HTML5 holds differences between this version and the old versions Furthermore we are seeing different type of elements the global element, the ID element and the inline elements. 
+After reviewing the structure of tags we also can read about be we can also read about the attribute of tags that tells us more about this tag holding and info keys about the attribute itself.
+
+
+In chapter 8 we are reviewing the evolution of HTML and we are seeing how HTML5 holds differences between this version and the old versions Furthermore we are seeing different type of elements the global element, the ID element and the inline elements. 
 
 
 The DAV element and the span element consider to be more likely the same resource or the same thing that contains different description of sections but once we reach the I frame we see that element could add more to our website boy opening a window that allow us to represent another content of another website like we can add to our website Google Maps the location instructions. 
@@ -20,5 +34,22 @@ HTML5 introducing new way of controlling the content inside a webpage the old ve
 
 chapter 18 summarizes the process of establishing a website through following standard and process true we should also focus on the audience of the website and design the site map that contain navigation which is in my opinion that will leads you to best website ever. 
 
-Final part and the GS book the JavaScript language is a lightweight programming language used for creating interactives between the web pages and the user so basically the 3-content real content of the web pages based on 3 languages which is HTML and CSS S and finally JavaScript
+
+> ## How HTML CSS works with JavaScript?
+
+
+HTML, CSS and JavaScript work together to form the front-end design of a website by applying information that affects content, style and interactivity of a site.
+
+the 3 Types of CSS Styles:
+- inline
+- external
+- internal
+
+Final part and the GS book the JavaScript language is a lightweight programming language used for creating interactives between the web pages and the user so basically the 3-content real content of the web pages based on 3 languages which is HTML and CSS S and finally JavaScript.
+
+
+> What exactly does JavaScript do?
+
+
+JavaScript is programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at.
 
