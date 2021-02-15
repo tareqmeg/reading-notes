@@ -44,6 +44,7 @@ The key to understanding how CSS works is to imagine that there is an invisible 
 
 
 > Three ways to style the page using CSS
+
 1-	Inline CSS
 
 The inline style is considered to be not the best because it is the most complicated and hard to apply changes referring to the time and effort that need to applied.
