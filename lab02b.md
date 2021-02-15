@@ -17,7 +17,7 @@ This is Tareq Bio Master Degree Holder hope to be the CEO of my self it is not e
 
 Code 201 Reading Notes | Link 
 ------------ | ------------- 
-class-01 |  [Here class-01](https://tareqmeg.github.io/reading-notes/class-01)
+class-01 |  [Here class-01](https://tareqmeg.github.io/reading-notes/class-01read)
 class-02 |  [Here class-02](https://tareqmeg.github.io/reading-notes/class-02)
 && |  _______________
 
