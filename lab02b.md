@@ -21,7 +21,7 @@ class-01 |  [Here class-01](https://tareqmeg.github.io/reading-notes/class-01rea
 class-02 |  [Here class-02](https://tareqmeg.github.io/reading-notes/class-02)
 class-03 |  [Here class-03](https://tareqmeg.github.io/reading-notes/201/class03read)
 class-04 | [Here class-04](201/class-04read.md)
-
+class-05 | [Here class-05](201/class-05read.md)
 
 
 

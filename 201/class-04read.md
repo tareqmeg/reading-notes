@@ -1,4 +1,5 @@
-> # Links
+
+> # Links<sub>2
 Links are what the web is it’s moves you from page to page also connect our website with external websites it enables the idea of browsing.
 
 Try to link and add it to the website we use `<a>` element sure we add the URL of the wanted website or page and truly between the opening tag and closing tag of the `<a>` element we add what we want to appear to the user which is the text link.
@@ -33,7 +34,7 @@ This moves an element from the position it would be in normal flow, shifting it 
 This positions the element in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position of any surrounding elements (as they simply ignore the space it would have taken up).
 
 
-> # pair programming
+> # pair programming<sup>1</sup>
 the process of establishing programming consist of two (Driver and Navigator).
 
 1- Driver he is the one who is typing and the only one whose hands are on the keyboard.
@@ -64,3 +65,7 @@ The main skills required for pair programming are:
 1. Job interview readiness: this will prepare both of the driver and the navigator for any question for the job interview.
 
 1. Work environment readiness: this pair working will apply the work environment simulation to be able to get ready for real environment. 
+
+1- <cite> Allie GrampaAugust 24, 20186 Reasons for Pair Programming</cite>
+
+2- <cite>Jon Ducket HTML & CSS Design and Build Websites </cite>
