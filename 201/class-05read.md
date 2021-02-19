@@ -1,6 +1,6 @@
 > # Images
 
-when using images we shoul be:
+when using images we should be:
 
 - Be relevant
 - Convey information 
