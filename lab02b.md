@@ -24,7 +24,9 @@ class-04 | [Here class-04](201/class-04read.md)
 class-05 | [Here class-05](201/class-05read.md)
 class-06 | [Here calss-06](201/class-06read.md)
 class-07 | [Here class-07](201/class-07read.md)
-class-08 | [Here class-07](201/class-08read.md)
+class-08 | [Here class-08](201/class-08read.md)
+class-09 | [Here class-09](201/class-09read.md)
+class-10 | [Herre class-10](201/class-10read.md)
 
 
 
