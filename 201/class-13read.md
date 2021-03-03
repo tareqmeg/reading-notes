@@ -52,4 +52,3 @@ Instead of writing this function yourself, you can use Modernizr to detect suppo
 `}`
 
 
-
