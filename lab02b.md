@@ -39,3 +39,4 @@ class-13 | [Here class-13](201/class-13read.md)
 Code 301 Reading Notes | Link 
 ------------ | ------------- 
 class-01 |  [Here class-01](https://tareqmeg.github.io/reading-notes/301/read-01)
+class-02 |  [Here class-02](#####)
