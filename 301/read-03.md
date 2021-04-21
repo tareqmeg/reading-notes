@@ -30,7 +30,22 @@ mustache.js is an implementation of the mustache template system in JavaScript. 
    `Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });`
     `// returns: Hello, Sherlynn`
 
-    
+
+In the above, we see two braces around {{ name }}. This is Mustache syntax to show that it is a placeholder. When Mustache compiles this, it will look for the ‘name’ property in the object we pass in, and replace {{ name }} with the actual value, e,g, “Sherlynn”.
+
+> ## Mustache-Express
+
+If you intend you use mustache with Node and Express, you can use mustache-express. Mustache Express lets you use Mustache and Express together easily.
+
+To install:
+
+With Yarn:
+
+`$ yarn add mustache-express`
+
+or with NPM:
+
+`$ npm install mustache --save`
 
 
 [Click here to read more](lab02b.md)

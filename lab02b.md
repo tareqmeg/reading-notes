@@ -41,5 +41,5 @@ Code 301 Reading Notes | Link
 class-01 |  [Here class-01](https://tareqmeg.github.io/reading-notes/301/read-01)
 class-02 |  [Here class-02](301/read-02.md)
 class-03 |  [Here class-03](301/read-03.md)
-
+class-04 |  [Here class-04](301/read-04.md)
 
