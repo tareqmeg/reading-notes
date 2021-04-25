@@ -48,4 +48,43 @@ or with NPM:
 `$ npm install mustache --save`
 
 
+`Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });`
+`// returns: Hello, Sherlynn`
+
+
+Mustache coding is the best way to reduce the coding of java script.
+
+> # Guide to Flexbox
+
+The main idea behind the flex layout is to give the container the ability to alter its items’ width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes). A flex container expands items to fill available free space or shrinks them to prevent overflow.
+
+
+![](pic/r31.PNG)
+
+![](pic/r32.PNG)
+
+
+
+
+`.container { flex-direction: row | row-reverse | column | column-reverse;
+}`
+
+- row (default): left to right in ltr; right to left in rtl
+- row-reverse: right to left in ltr; left to right in rtl
+- column: same as row but top to bottom
+- column-reverse: same as row-reverse but bottom to top
+
+
+![](pic/r33.PNG)
+
+`.container { flex-wrap: nowrap | wrap | wrap-reverse;
+}`
+
+- nowrap (default): all flex items will be on one line
+- wrap: flex items will wrap onto multiple lines, from top to bottom.
+- wrap-reverse: flex items will wrap onto multiple lines from bottom to top.
+
+
+
+
 [Click here to read more](lab02b.md)
