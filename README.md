@@ -26,3 +26,6 @@ I hope to be the CEO of my self one day
 
 [Clike here for my github account](https://github.com/tareqmeg)
 
+
+> # [Click here to fide table of content ofr reading notes](reading-notes/lab02b.md)
+
