@@ -23,3 +23,6 @@ Why and when to use API keys | Cloud Endpoints with OpenAPIhttps://cloud.google.
 Example of creating API as bellow:
 
 ![](pic/pub-key.png)
+
+
+[Click here to read more](lab02b.md)
