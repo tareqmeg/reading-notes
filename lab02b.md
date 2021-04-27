@@ -45,4 +45,4 @@ class-04 |  [Here class-04](301/read-04.md)
 class-05 |  [Here class-05](301/read-05.md)
 class-06 |  [Here class-06](301/read-06.md)
 class-07 |  [Here class-07](301/read-07.md)
-
+class-08 |  [Here class-08](301/read-08.md)
