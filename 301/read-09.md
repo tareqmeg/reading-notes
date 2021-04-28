@@ -81,4 +81,4 @@ The doubleOperator function we implemented above is a higher-order function beca
 You’ve probably already heard about filter, map, and reduce. Let's take a look at these.
 
 
-
+[Click here to read more](lab02b.md)
