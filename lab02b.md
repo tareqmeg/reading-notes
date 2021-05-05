@@ -51,7 +51,7 @@ class-10 |  [Here class-10](301/read-10.md)
 class-11 |  [Here class-11](301/read-11.md)
 class-12 |  [Here class-12](301/read-12.md)
 class-13 |  [Here class-13](301/read-13.md)
-
-
+class-14 |  [Here class-14a](301/read-14a.md)
+class-14 |  [Here class-14b](301/read-14b.md)
 
 
